@@ -386,7 +386,7 @@ Coalbrook Dale, 2nd month 26th, 1799
 [.asterism]
 '''
 
-[.letter-participants]
+[.letter-heading]
 Richard Reynolds to David Sands.
 
 [.salutation]

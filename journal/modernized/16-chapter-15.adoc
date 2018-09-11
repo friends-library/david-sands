@@ -11,7 +11,7 @@
 * A Remarkable Occurrence
 * Conclusion
 
-[.letter-participants]
+[.letter-heading]
 Richard Reynolds to David Sands
 
 [.salutation]
@@ -336,7 +336,7 @@ but have not had any answer.
 I wish to receive a line from you,
 and an intimation of your mind when you look towards us.
 
-[.letter-participants]
+[.letter-heading]
 From John Murray, Jr., to David Sands
 
 [.salutation]

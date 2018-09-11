@@ -232,7 +232,7 @@ and he was enabled to accomplish this engagement in about a year.
 The following letter, received by David Sands from another beloved fellow-laborer,
 appears to have been written to him from London, about the 6th month, 1787.
 
-[.letter-participants]
+[.letter-heading]
 From John Pemberton to David Sands
 
 The renewed testimony of your affectionate remembrance, and near sympathy,

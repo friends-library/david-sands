@@ -132,7 +132,7 @@ Nantucket, 8th month, 16th, 1779.
 [.asterism]
 '''
 
-[.letter-participants]
+[.letter-heading]
 From Miriam Fry to David Sands
 
 [.salutation]
