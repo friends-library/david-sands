@@ -181,7 +181,7 @@ Miriam Fry
 [.signed-section-context-close]
 Nantucket, 4th month, 24th, 1778.
 
-[.alt]
+[.blurb]
 === Some Account of the Convincement of Remington Hobby
 
 In the year 1777 or 1778, when David Sands was on a religious visit to New England,
@@ -280,7 +280,7 @@ Amongst the papers of David Sands was found the following weighty address,
 which appears to have been written about this period,
 and is deemed well worthy of preservation:
 
-[.alt]
+[.blurb]
 === To all who love the Lord Jesus Christ, addressed more especially to Friends of East Hampton,
 
 [.salutation]

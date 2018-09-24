@@ -118,7 +118,7 @@ children by writing some instructive hints for their government,
 which are thought worthy of preservation here,
 and possibly may be profitably read by others.
 
-[.alt]
+[.blurb]
 === David Sands' Advice to his Children, Written at Sea
 
 Having felt some secret drawings of spirit towards my dear children,

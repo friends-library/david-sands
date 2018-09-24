@@ -8,7 +8,7 @@
 The following remarks, from the pen of David Sands,
 appear to be the fruits of experience, and are worthy of preservation:--
 
-[.alt]
+[.blurb]
 === To a Young Friend.
 
 I felt easy to communicate some observations
@@ -71,7 +71,7 @@ courteous without deceit, and brave without vice.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === An Address to Religious Inquirers, On the Subject of Silent Worship; or Waiting Upon God.
 
 Our Lord Jesus Christ has told us, John 15:5, "`Without me you can do nothing.`"
@@ -167,7 +167,7 @@ I feel it best to leave it for the present,
 and refer the inquirer to the 10th and 11th Propositions of R.
 Barclay's Apology for the People called Quakers.
 
-[.alt]
+[.blurb]
 === The Substance of a Testimony Delivered by David Sands at a public meeting held at Macclesfield in Cheshire in the year 1804, and taken down in shorthand by Thomas Mollineaux.
 
 +++[+++Note by the Editor.--Although the Society of Friends, as a religious body,

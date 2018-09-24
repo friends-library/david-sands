@@ -105,7 +105,7 @@ labors for the promotion of the cause of truth and righteousness.
 
 His Journal of these services thus commences:--
 
-[.alt]
+[.blurb]
 === An Account of my Travels from my own Home, on a Religious Visit to Friends in Europe
 
 My mind having been long exercised with thoughts of crossing
