@@ -12,6 +12,9 @@
 The following letters, addressed to his wife in the course of this long journey,
 will be read with interest:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Most affectionate and truly beloved wife--
 
@@ -88,8 +91,10 @@ David Sands
 [.signed-section-context-close]
 Nantucket, 3rd of 9th month 1779.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 My dear and beloved Wife,
@@ -129,8 +134,10 @@ David Sands
 [.signed-section-context-close]
 Nantucket, 8th month, 16th, 1779.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 From Miriam Fry to David Sands
@@ -180,6 +187,8 @@ Miriam Fry
 
 [.signed-section-context-close]
 Nantucket, 4th month, 24th, 1778.
+
+--
 
 [.blurb]
 === Some Account of the Convincement of Remington Hobby
@@ -236,6 +245,9 @@ establishment of those among whom he had labored,
 is thought to have been written while engaged in this last journey.
 It is without date:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear Friend, Daniel Starbuck,
 
@@ -276,9 +288,14 @@ I remain your friend,
 [.signed-section-signature]
 David Sands
 
+--
+
 Amongst the papers of David Sands was found the following weighty address,
 which appears to have been written about this period,
 and is deemed well worthy of preservation:
+
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === To all who love the Lord Jesus Christ, addressed more especially to Friends of East Hampton,
@@ -361,6 +378,8 @@ David Sands
 It is desired that this epistle be read at the close of an evening meeting,
 by the Friends of East Hampton.
 
+--
+
 The foregoing journey, through some of the Eastern States,
 being at a period when the revolutionary war was at its height,
 he had many trials to pass through, in moving about amongst the armed forces.
@@ -378,6 +397,9 @@ One day, when several soldiers were present, his wife received the following let
 which, after having read, she handed to one of them,
 desiring him to take it to the camp and show it to their officers,
 that they might be satisfied of its contents:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 My beloved Companion--
@@ -421,6 +443,8 @@ David Sands
 
 [.signed-section-context-close]
 Nantucket
+
+--
 
 It is stated that some of the soldiers often
 came in and sat with them during their meetings,

@@ -30,6 +30,9 @@ In a letter to his wife he thus expresses his lively
 concern for her preservation under her many trials,
 and for the welfare of his own family:
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Philadelphia, 8th month 20th, 1780.
 
@@ -90,6 +93,8 @@ I remain your tender and affectionate husband in truth`'s Service.
 
 [.signed-section-signature]
 David Sands
+
+--
 
 === Robbery of his Store
 
@@ -232,6 +237,9 @@ and he was enabled to accomplish this engagement in about a year.
 The following letter, received by David Sands from another beloved fellow-laborer,
 appears to have been written to him from London, about the 6th month, 1787.
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 From John Pemberton to David Sands
 
@@ -279,7 +287,10 @@ in faith and patience, I am your very affectionate friend,
 [.signed-section-signature]
 John Pemberton
 
+[.postscript]
 P+++.+++ S. The last yearly meeting was very large, and a favored season;
 the largest number of hopeful youths I ever saw together.
 The state of our religious Society, though low, is, I think, improving,
 and the discipline better-maintained than in former years.
+
+--

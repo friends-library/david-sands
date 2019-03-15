@@ -240,6 +240,9 @@ yet they have been made easier than could have been expected.
 At this period,
 David Sands received the following letter from one of the class just mentioned:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Honored Friend--
 
@@ -269,6 +272,8 @@ J+++.+++ B.
 
 [.signed-section-context-close]
 Northsgate, February 26, 1796.
+
+--
 
 The Journal continues:--I next proceeded to Newcastle-upon-Tyne,
 and put up at the house of Hadwen Bragg.
@@ -322,6 +327,9 @@ We next went to Staindrop.
 
 About this time David Sands received the following kind and
 sympathizing letter from his friend and fellow-laborer George Dillwyn:
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Dear Friend, David Sands,
@@ -377,6 +385,8 @@ George Dillwyn
 
 [.signed-section-context-close]
 London, 4th month, 21st, 1796
+
+--
 
 He next proceeded by way of Staindrop and Bishop Auckland to Durham,
 where the quarterly meeting for the county was to be held, and lodged at an inn.
@@ -514,6 +524,9 @@ respecting the order and Christian discipline of the Church.
 The following letter, received by David Sands about this time, is without signature,
 but must not be omitted:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear Friend--
 
@@ -606,3 +619,5 @@ of Philadelphia__
 
 [.signed-section-context-close]
 Philadelphia, 5th month 15th, 1797.
+
+--
