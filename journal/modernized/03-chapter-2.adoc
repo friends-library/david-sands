@@ -448,6 +448,9 @@ The following letter to his wife, dated from Salem,
 affords living evidence of his faith and patience,
 and of the many trials he was called to endure about this period:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 My dear Wife and bosom Friend--
 
@@ -491,6 +494,8 @@ Your affectionate husband,
 
 [.signed-section-signature]
 David Sands
+
+--
 
 The journal thus proceeds:--At Amsberry, there seems to be a tender, seeking people.
 From there we proceeded to Dover, Berwick, Falmouth, and Royalstown,

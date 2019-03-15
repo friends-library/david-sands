@@ -139,6 +139,9 @@ where I met with my much-loved friend James Bringhurst, who was very low in mind
 but was much better before we parted.
 The following letter from James Bringhurst will be read with interest:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 My dear Friend,
 
@@ -173,6 +176,8 @@ Your sincere friend,
 
 [.signed-section-signature]
 James Bringhurst
+
+--
 
 I next proceeded to Providence, where I stayed some time,
 and visited my old friend Daniel Rowland, who, with his family, were very well,
@@ -324,6 +329,9 @@ The following letters by Remington Hobby,
 written to David Sands after his departure for Europe,
 are expressive of his feeling towards him.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Well-beloved Friend--
 
@@ -370,11 +378,16 @@ and believe me your friend in that love that changes not,
 [.signed-section-signature]
 Remington Hobby
 
+--
+
 +++[+++The following is an extract from another of Remington Hobby`'s
 letters setting forth the love he bore to David Sands,
 as also his devotedness to truth, fearing,
 lest the messenger bearing glad tidings should not tarry long
 enough in the field of service to see the fruits of his labor:]
+
+[.embedded-content-document.letter]
+--
 
 In those seasons wherein heavenly power has seemed to silence all flesh,
 I have often ventured to say, concerning my dear friend and father who is absent,
@@ -408,6 +421,8 @@ so prays, and more than all earthly happiness desires, your sincere loving frien
 [.signed-section-signature]
 Remington Hobby
 
+--
+
 The following letter to David Sands, from his friend John Tabor,
 was written about this time, though it reached him after his arrival in England.
 It evinces much brotherly sympathy with him under the many and
@@ -416,6 +431,9 @@ and also bears witness to the high estimation in which his ministerial labors we
 held by those who had the best opportunity of observing their effects,
 and the evidence of the Divine power and authority with
 which they were often eminently accompanied:
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Dear Friend, David Sands--
@@ -481,3 +499,5 @@ John Tabor
 
 [.signed-section-context-close]
 Vassalborough, 8th month 6th, 1795
+
+--

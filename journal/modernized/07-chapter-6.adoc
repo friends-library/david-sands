@@ -118,6 +118,9 @@ children by writing some instructive hints for their government,
 which are thought worthy of preservation here,
 and possibly may be profitably read by others.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === David Sands`' Advice to his Children, Written at Sea
 
@@ -217,6 +220,8 @@ we are no longer safe than while on the watch.
 [.signed-section-context-close]
 "`Two Brothers,`" 8th month, 11th, 1795
 
+--
+
 [.asterism]
 '''
 
@@ -272,6 +277,9 @@ arguments in favor of Christianity--this inward argument is always at hand.
 
 The following letter, from James Neal, belongs to this period of time,
 and bears evidence of the continued warm attachment of those amongst whom he had labored:
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 My dearly beloved Friend and Brother in the Gospel--
@@ -330,8 +338,10 @@ James Neal
 [.signed-section-context-close]
 Killert, 12th month 9th, 1795.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Dear Brother--
@@ -351,3 +361,5 @@ Jonathan Dow
 
 [.signed-section-context-close]
 Dover, 12th month 11th, 1795
+
+--
