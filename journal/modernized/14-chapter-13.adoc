@@ -10,6 +10,9 @@
 The following letter from Joseph Wing to Clementina Sands is deemed
 worthy of a place in these Memoirs:--Joseph Wing to Clementina Sands,
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear Friend--
 
@@ -91,12 +94,17 @@ Joseph Wing
 [.signed-section-context-close]
 6th month 29th, 1798.
 
+--
+
 The following letter, from David Sands, is supposed to be addressed to James Harford,
 of Bristol.
 Some of the trials to which he so feelingly
 alludes in this letter are explained afterwards.
 The defection from sound doctrine was creeping in,
 though more fully developed at a subsequent period:
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 My very dear Friend--
@@ -159,6 +167,8 @@ Until then, farewell, my tenderly beloved friend.
 
 [.signed-section-signature]
 David Sands
+
+--
 
 The Journal proceeds:--After parting with my friends at Cork, I returned to Youghall,
 and tarried some days, visited several families, and had some meetings.
@@ -326,6 +336,9 @@ and tenderly concerned mind of David Sands;
 to whom the truth, as it is in Jesus, had ever been very precious;
 and some allusion will be found to them in the following letters from Richard Reynolds:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear Friend--
 
@@ -383,8 +396,10 @@ Richard Reynolds
 [.signed-section-context-close]
 Coalbrook Dale, 2nd month 26th, 1799
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 Richard Reynolds to David Sands.
@@ -453,3 +468,6 @@ Your faithful friend,
 
 [.signed-section-signature]
 Richard Reynolds
+
+--
+
