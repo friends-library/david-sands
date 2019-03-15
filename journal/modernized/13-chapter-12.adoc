@@ -127,6 +127,9 @@ She appeared to be a worthy woman, and had a valuable gift in the ministry.
 
 The following letter from David Sands to his wife belongs to this period of time:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 My dear Wife--
 
@@ -181,3 +184,5 @@ David Sands
 
 [.signed-section-context-close]
 Waterford, Ireland, 8th month 11th, 1798
+
+--

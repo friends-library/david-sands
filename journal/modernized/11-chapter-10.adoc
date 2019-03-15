@@ -259,8 +259,11 @@ The following letter, addressed to M. L. of Whitby,
 affords lively evidence of the humble yet confiding frame of his mind at this time,
 in the review of his Continental travels:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
-Dear Friend
+Dear Friend,
 
 Our beloved friend George Saunders being here,
 by whom I have been informed not only of your health,
@@ -300,9 +303,14 @@ David Sands
 [.signed-section-context-close]
 London, 6th month 5th, 1797
 
+--
+
 The following extract of a letter from David Sands to Isaac Cooke, of Manchester,
 though not in the order of date, yet having come to the hands of the editor,
 is thought worthy of a place in these pages:
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Dear Friend--
@@ -341,6 +349,7 @@ I take leave in much love and affection, and rest your affectionate friend,
 [.signed-section-signature]
 David Sands
 
+[.postscript]
 P+++.+++ S.--My love to dear John Thorpe,
 with whom I have felt much since I heard of his trials in his family,
 followed by his own indisposition: and to all my friends in your freedom, in Manchester:
@@ -352,3 +361,5 @@ David Sands
 
 [.signed-section-context-close]
 Warrington, 12th month 15th, 1795.
+
+--

@@ -936,6 +936,9 @@ In about two days the King received them, and an officer was sent after us,
 but did not overtake us.
 The person who had the care of our letter and book sent us the following letter:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 To The Friends who visited Berlin--
 
@@ -1004,6 +1007,8 @@ Major Marconnay
 
 [.signed-section-context-close]
 Berlin, 22nd Oct., 1796.
+
+--
 
 Bishop Wender is appointed to introduce all strangers to the King.
 

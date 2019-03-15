@@ -15,8 +15,11 @@
 The following letter is addressed to his wife,
 giving some particulars of his late travels in Germany:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
-My Dear Wife
+My Dear Wife,
 
 It is now more than a month since I have written to you, for lack of opportunity,
 having been far back into Germany.
@@ -169,6 +172,8 @@ David Sands
 
 [.signed-section-context-close]
 Pyrmont, 11th month 5th, 1796
+
+--
 
 We have had several favored meetings here at Pyrmont,
 and still remain at a loss to know when we shall get clear of our service in this place.

@@ -151,6 +151,9 @@ of some present not of our Society.
 The following letter from his friend Ebenezer Cresson, of Portland, Maine,
 was written about this time, and probably received soon after:
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear Friend--
 
@@ -204,6 +207,8 @@ Ebenezer Cresson
 
 [.signed-section-context-close]
 Portland, Maine, 7th month 10th, 1797.
+
+--
 
 7th month 16th, 1797.--Went to Burford and put up with Thomas Minchin,
 whose wife is in the ministry, and appears to be a very valuable minister.
@@ -407,6 +412,9 @@ About this time,
 David Sands was cheered by the receipt of the following valuable letter from his friend,
 James Bringhurst, of Rhode Island:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 My dear Friend, David Sands--
 
@@ -545,6 +553,8 @@ James Bringhurst
 
 [.signed-section-context-close]
 Tiverton, Rhode Island, 10th month 25th, 1797.
+
+--
 
 12th month 21st.--My valued friend William Savery, with William Farrer,
 having come to Cork, we had two public meetings, which were, I believe, satisfactory;
