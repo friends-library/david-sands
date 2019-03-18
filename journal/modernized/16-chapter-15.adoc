@@ -11,6 +11,9 @@
 * A Remarkable Occurrence
 * Conclusion
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 Richard Reynolds to David Sands
 
@@ -70,6 +73,8 @@ Richard Reynolds
 [.signed-section-context-close]
 Bristol, 4th month 8th, 1805
 
+--
+
 After taking a general and solemn leave of his many tender and affectionate friends,
 he embarked at Liverpool, on board the ship "`Washington,`" bound for New York,
 where he arrived in safety after a boisterous passage,
@@ -86,6 +91,9 @@ dedication to the service of his Lord and Master Jesus Christ.
 
 The following letter, with David Sands`' reply, though without date or full signature,
 is thought worthy of insertion; and may most properly be introduced here:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Most worthy and honored Friend--
@@ -186,6 +194,11 @@ is the fervent prayer of your unworthy friend,
 [.signed-section-signature]
 James C.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === David Sands`' Reply.
 
@@ -251,6 +264,8 @@ my friend.
 [.signed-section-signature]
 David Sands
 
+--
+
 After David Sands returned from his long visit to Europe,
 he continued to take a lively interest in the welfare of the Society;
 visiting occasionally many meetings and Friends in the neighborhood of his residence.
@@ -287,6 +302,9 @@ the second is an instructive communication from John Murray, junior, of New York
 though originally a confidential letter, yet now, after the lapse of so many years,
 it is apprehended may suitably find a place in these Memoirs,
 for the edification and instruction of others.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Dearly beloved friend David Sands--
@@ -331,10 +349,16 @@ James Neall
 [.signed-section-context-close]
 Brunswick. 6th month 6th, 1808.
 
+[.postscript]
 P+++.+++ S. I have written to you one or two letters since your return from Europe,
 but have not had any answer.
 I wish to receive a line from you,
 and an intimation of your mind when you look towards us.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 From John Murray, Jr., to David Sands
@@ -405,6 +429,8 @@ John Murray, Jr
 
 [.signed-section-context-close]
 New York, 7th month 21st, 1811.
+
+--
 
 === A Remarkable Occurrence
 
