@@ -1,7 +1,11 @@
 == Chapter I.
 
-Parentage--Convincement--Marriage--Thoughts on Slavery,
-etc.--Appears in Public Testimony as a Minister, and Travels in the Service.
+[.chapter-synopsis]
+* Parentage
+* Convincement
+* Marriage
+* Thoughts on Slavery, etc.
+* Appears in Public Testimony as a Minister, and Travels in the Service
 
 David Sands, son of Nathaniel and Mercy Sands, was born the 4th day of the 10th mo.,
 1745, at Cowneck, on Long Island.
@@ -219,6 +223,7 @@ At the same time he requested a certificate to pay a religious visit to Friends 
 Rhode Island, and parts adjacent.
 This visit was not extensive, and the following account of it is from his Journal:
 
+[.blurb]
 === An account of my journey into New England in company with my friend Aaron Vail.
 
 "`I left my home the 5th of 11th mo., 1775; went to Edward Hallock`'s at New Marlborough,
@@ -299,7 +304,7 @@ where we had hard labor and close exercise,
 but through Divine favor we were enabled to discharge our concern.
 Thanks be to his holy name.
 
-We had many satisfactory opportunities in this Island,
+"`We had many satisfactory opportunities in this Island,
 though many hard struggles with some who appeared
 to have taken a part in the spirit of war,
 to the wounding of themselves and faithful brethren--we were at their meeting for sufferings,
@@ -316,6 +321,9 @@ Next day set forward towards our homes, which we reached to the comfort of our o
 and that of our dear connections and friends, having been absent several months.
 To the Lord be ascribed thanksgiving and praise,
 which are due to His worthy name forever and ever.`"
+
+[.small-break]
+'''
 
 +++[+++After this, there is no account of his travels, by Journal, until the year 1777,
 and about this time, the subject of slavery became a great exercise to him,
