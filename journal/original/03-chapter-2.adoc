@@ -1,6 +1,8 @@
 == Chapter II.
 
-Travels and Gospel Labors in New England-Letter to his Wife.
+[.chapter-synopsis]
+* Travels and Gospel Labors in New England
+* Letter to his Wife
 
 In the spring of 1777, David Sands commenced a journey in New England and parts adjacent,
 which occupied him two years and seven months;
@@ -454,10 +456,15 @@ and proceeded in company with my dear friends Mehetabel Jenkins and Hope Scammon
 and we had a comfortable time, much to my satisfaction,
 and to the comfort of the faithful.
 
+[.offset]
 +++[+++The following letter to his wife, dated from Salem,
 affords living evidence of his faith and patience,
 and of the many trials he was called to endure about this period:]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Dear Wife and Bosom Friend--
 
 It is long since I have had an opportunity of writing to thee,
@@ -496,10 +503,15 @@ In that love which time or distance cannot change, I most affectionately salute 
 with my beloved parents and friends,
 to whom I feel most sincerely united in the bonds of pure love.
 
+[.signed-section-closing]
 Thy affectionate husband,
 
+[.signed-section-signature]
 David Sands.
 
+--
+
+[.offset]
 +++[+++The journal thus proceeds:]
 
 At Amsberry, there seems to be a tender, seeking people.
