@@ -1,8 +1,13 @@
 == Chapter IV.
 
-Visit to Philadelphia--Letter to his Wife--Robbery of his Store--Second
-Visit to New England--Letter from John Pemberton.
+[.chapter-synopsis]
+* Visit to Philadelphia
+* Letter to his Wife
+* Robbery of his Store
+* Second Visit to New England
+* Letter from John Pemberton
 
+[.offset]
 +++[+++The following is from his Journal:]
 
 In the year 1780,
@@ -26,13 +31,21 @@ much to my satisfaction.
 I also attended many meetings, both for worship and discipline,
 amongst Friends of the adjacent parts.
 
+[.small-break]
+'''
+
 In a letter to his wife he thus expresses his lively
 concern for her preservation under her many trials,
 and for the welfare of his own family:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 8th mo.
 20th, 1780.
 
+[.salutation]
 My Dearly Beloved Wife--
 
 Duty, as well as inclination, invite me to embrace this opportunity to write to thee.
@@ -88,7 +101,10 @@ forgotten in the sweet reward of faithfulness.
 My affectionate love to my dear parents and friends.
 I remain thy tender and affectionate husband in truth`'s service.
 
+[.signed-section-signature]
 David Sands.
+
+--
 
 === Robbery of his Store.
 
@@ -235,6 +251,9 @@ The following letter, received by David Sands from another beloved fellow-labore
 appears to have been written to him from London, about the 6th mo., 1787.
 It is from John Pemberton:--
 
+[.embedded-content-document.letter]
+--
+
 The renewed testimony of thy affectionate remembrance, and near sympathy,
 was very cordial, and truly acceptable.
 The Lord has seen meet to afford such supplies of instrumental help when I stood in need.
@@ -276,9 +295,17 @@ I am but little among them.
 With dear love, and sincere desires for our preservation on the sure foundation,
 in faith and patience, I am thy very affectionate friend,
 
+[.signed-section-signature]
 John Pemberton.
+
+[.postscript]
+====
 
 P+++.+++ S. The last yearly meeting was very large, and a favored season;
 the largest number of hopeful youths I ever saw together.
 The state of our religious Society, though low, is, I think, improving,
 and the discipline better maintained than in former years.
+
+====
+
+--

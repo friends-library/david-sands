@@ -1,14 +1,25 @@
 == Chapter III.
 
-Letters to his wife--Letter from Miriam Fry to David Sands--Convincement of Remington
-Hobby--Letter to Daniel Starbuck--Epistle to Friends of East Hampton--Trials
-of his Wife from the Army-Letter to his Wife--His return Home.
+[.chapter-synopsis]
+* Letters to his wife
+* Letter from Miriam Fry to David Sands
+* Convincement of Remington Hobby
+* Letter to Daniel Starbuck
+* Epistle to Friends of East Hampton
+* Trials of his Wife from the Army-Letter to his Wife
+* His return Home
 
+[.offset]
 +++[+++The following letters, addressed to his wife in the course of this long journey,
 will be read with interest:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Nantucket, 3rd of 9th mo., 1779.
 
+[.salutation]
 Most Affectionate and Truly Beloved Wife--
 
 The time seems to have come in which we must necessarily
@@ -79,10 +90,18 @@ and no doubt will land us all joyfully in the celestial regions when a
 few troublesome and afflicting days and nights have passed away:
 so in true love and tender affection I bid thee farewell.
 
+[.signed-section-signature]
 David Sands.
 
+[.signed-section-context-close]
 Nantucket, 8th mo., 16, 1779.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Dear and Beloved Wife--
 
 Notwithstanding my long and unforeseen stay, which is at times very proving to me,
@@ -115,12 +134,21 @@ I mention this for thy encouragement,
 and to let thee know that the Lord is still willing to own his own work.
 With love unfeigned I remain thy affectionate husband,
 
+[.signed-section-signature]
 David Sands.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Miriam Fry to David Sands.
 
+[.signed-section-context-open]
 Nantucket, 4th mo., 24, 1778.
 
+[.salutation]
 Dear Friend--
 
 In the everlasting love of God,
@@ -161,8 +189,12 @@ So in near and dear love, I conclude, and bid you farewell,
 and remain your friend and sister in the unchangeable covenant of light and life.
 My husband joins in near and affectionate love to thee and thy companion.
 
+[.signed-section-signature]
 Miriam Fry.
 
+--
+
+[.blurb]
 === Some Account of the Convincement of Remington Hobby.
 
 In the year 1777 or 1778, when David Sands was on a religious visit to New England,
@@ -212,7 +244,8 @@ and parted with him with feelings of the truest regard,
 commending him to the care of Him who ever watcheth over his faithful children,
 whether by sea or land.
 
-* * *
+[.asterism]
+'''
 
 The following letter by David Sands,
 evincing his tender concern for the growth and establishment
@@ -220,6 +253,10 @@ of those among whom he had labored,
 is thought to have been written whilst engaged in this last journey.
 It is without date:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend, Daniel Starbuck,
 
 Notwithstanding our correspondence has not been regularly kept up,
@@ -256,15 +293,22 @@ the redeemed of all generations, who unite in praising his holy name forever and
 With a heart filled with the love of an affectionate brother in Christ,
 I remain thy friend,
 
+[.signed-section-signature]
 David Sands.
+
+--
 
 Amongst the papers of David Sands was found the following weighty address,
 which appears to have been written about this period,
 and is deemed well worthy of preservation:
 
-To all who love the Lord Jesus Christ,
-addressed more especially to Friends of East Hampton.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== To all who love the Lord Jesus Christ, addressed more especially to Friends of East Hampton.
+
+[.salutation]
 My Dear Friends,
 
 I have had my mind often drawn to remember you,
@@ -335,10 +379,18 @@ who hears the prayers that proceed from the contrite spirit.
 With a salutation of love to you all, I remain your sincere friend,
 in Jesus our dying and risen Lord,
 
+[.signed-section-signature]
 David Sands.
+
+[.postscript]
+====
 
 It is desired that this epistle be read at the close of an evening meeting,
 by the Friends of East Hampton.
+
+====
+
+--
 
 The foregoing journey, through some of the Eastern States,
 being at a period when the revolutionary war was at its height,
@@ -358,8 +410,13 @@ which, after having read, she handed to one of them,
 desiring him to take it to the camp and show it to their officers,
 that they might be satisfied of its contents:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Nantucket
 
+[.salutation]
 My Beloved Companion,
 
 The tender ties, both of grace and nature,
@@ -395,12 +452,15 @@ and as a husband to thee, seeing he has ordered our separation in this trying se
 My love is to my beloved parents, brothers, and sisters, and dear inquiring friends.
 In the most affectionate and heartfelt regard, I am thy loving husband,
 
+[.signed-section-signature]
 David Sands.
+
+--
 
 It is stated that some of the soldiers often came
 in and sat with them during their meetings,
 and appeared very civil and respectful.
-Clementina Sands lent them several Friends`' books, particularly Barclay`'s Apology.
+Clementina Sands lent them several Friends`' books, particularly [.book-title]#Barclay`'s Apology.#
 When they left, they took a friendly leave,
 and appeared to wish for the welfare of the family.
 During their stay, her friends felt very anxious for her removal to a place of safety,
