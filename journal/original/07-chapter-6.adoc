@@ -6,6 +6,7 @@
 * On the Inward Witness
 * Letters from James Neal and Jonathan Dow
 
+[.centered]
 === Voyage to Europe.
 
 Thirteen months after leaving his own habitation, he thus proceeds with his Journal:
@@ -130,8 +131,8 @@ and possibly may be profitably read by others.
 [.embedded-content-document.letter]
 --
 
-[.letter-heading]
-David Sands`' Advice to his children, Written at Sea.
+[.centered]
+=== David Sands`' Advice to his children, Written at Sea.
 
 [.signed-section-context-open]
 Ship "`Two Brothers,`" 8th mo., 11th, 1795.
@@ -287,9 +288,6 @@ in favor of Christianity--this inward argument is always at hand.
 
 --
 
-[.asterism]
-'''
-
 The following letter, from James Neal, belongs to this period of time,
 and bears evidence of the continued warm attachment of those amongst whom he had labored:
 
@@ -297,8 +295,7 @@ and bears evidence of the continued warm attachment of those amongst whom he had
 --
 
 [.signed-section-context-open]
-Killery, 12th mo.
-9th, 1795.
+Killery, 12th mo. 9th, 1795.
 
 [.salutation]
 My Dearly Beloved Friend and Brother in the Gospel--
@@ -355,15 +352,11 @@ James Neal.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
 [.signed-section-context-open]
-Dover, 12th mo.
-11th, 1795.
+Dover, 12th mo. 11th, 1795.
 
 [.salutation]
 Dear Brother--
