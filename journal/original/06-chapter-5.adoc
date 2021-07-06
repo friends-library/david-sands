@@ -1,9 +1,14 @@
 == Chapter V.
 
-Second Visit to Philadelphia,
-and Awful Warning to the Inhabitants--Yellow Fever breaks out--Prepares to Visit
-Europe--Another Visit to New England--Letter from James Bringhurst--Takes Ship
-for Halifax - Escape from Shipwreck--Letters from Remington Hobby and John Tabor.
+[.chapter-synopsis]
+* Second Visit to Philadelphia, and Awful Warning to the Inhabitants
+* Yellow Fever breaks out
+* Prepares to Visit Europe
+* Another Visit to New England
+* Letter from James Bringhurst
+* Takes Ship for Halifax
+* Escape from Shipwreck
+* Letters from Remington Hobby and John Tabor
 
 In the latter part of the year 1792,
 David Sands felt a concern to visit Friends in Philadelphia again,
@@ -96,8 +101,10 @@ both of his Friends at home and those brethren amongst whom he had been laboring
 many of whom had been sharers with him in various exercises and arduous
 labors for the promotion of the cause of truth and righteousness.
 
+[.offset]
 His Journal of these services thus commences:
 
+[.centered]
 === An Account of my Travels from my own Home, on a Religious Visit to Friends in Europe.
 
 My mind having been long exercised with thoughts of crossing
@@ -165,7 +172,6 @@ that I may be favored with patience and with resignation
 to whatever is permitted to be my experience,
 without any murmur or repining,
 though sometimes this is hard to come at so fully as ought to be the case.
-{footnote-paragraph-split}
 {footnote-paragraph-split}
 Thy
 sincere friend,
@@ -237,6 +243,7 @@ I now felt bound towards Amberry, where I made but little stay,
 but proceeded towards Boston, taking Salem and Lynn in my way,
 where I attended several meetings, generally large, and I hope not without some use.
 
+[.centered]
 === Sails for Halifax.
 
 I was now very much straitened in my own mind as to what I should do; but thought,
@@ -323,6 +330,10 @@ The following letters by Remington Hobby,
 written to David Sands after his departure for Europe,
 are expressive of his feeling towards him.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Well-Beloved Friend--
 
 A few hours since I heard of an opportunity by which
@@ -365,12 +376,18 @@ never suffer partial affection to supersede the testimony of truth,
 whether it be the rod or in love,
 and believe me thy friend in that love that changeth not,
 
+[.signed-section-signature]
 Remington Hobby.
+
+--
 
 The following is an extract from another of Remington Hobby`'s letters,
 setting forth the love he bore to David Sands, as also his devotedness to truth,
 fearing lest the messenger bearing glad tidings should not tarry
 long enough in the field of service to see the fruits of his labor:
+
+[.embedded-content-document.letter]
+--
 
 In those seasons wherein heavenly power has seemed to silence all flesh,
 I have often ventured to say, concerning my dear friend and father who is absent,
@@ -403,7 +420,10 @@ did they know of my writing.
 May we, in the Lord`'s time, be gathered into the fold of everlasting rest, so wisheth,
 so prayeth, and more than all earthly happiness desireth, thy sincere loving friend,
 
+[.signed-section-signature]
 Remington Hobby.
+
+--
 
 The following letter to David Sands, from his friend John Tabor,
 was written about this time, though it reached him after his arrival in England.
@@ -414,9 +434,13 @@ were held by those who had the best opportunity of observing their effects,
 and the evidence of the Divine power and authority
 with which they were often eminently accompanied:
 
-Vassalborough, 8th mo.
-6Th, 1795
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Vassalborough, 8th mo. 6th, 1795
+
+[.salutation]
 Dear Friend, David Sands,
 
 It is in much brotherly love and near sympathy that I salute thee in this way,
@@ -431,7 +455,13 @@ it is God that giveth the increase,`" to whom may
 we ever ascribe all the honor and praise,
 and nothing to self, but that we are poor unprofitable servants.
 
-After remarking on David Sands`'s long detention before embarking for England, he adds
+--
+
+[.offset]
+After remarking on David Sands`'s long detention before embarking for England, he adds:
+
+[.embedded-content-document.letter]
+--
 
 I wrote to Robert Benson,
 and informed them of thy uneasiness with thy detention in our land;
@@ -464,7 +494,13 @@ as to be more at liberty to accompany my friends on religious visits,
 and in a particular manner my dear friend, Remington Hobby,
 who I believe the Great Master is about to call to more labor in His vineyard.
 
+--
+
+[.offset]
 Speaking of his own family, he remarks--
+
+[.embedded-content-document.letter]
+--
 
 I hope and believe that the close trial they met with in
 our absence will prove a blessing to some of them.
@@ -474,4 +510,7 @@ and a lively concern appears to rest on some of them to come up in faithfulness,
 which I esteem a great favor.
 With near love and sympathy, thy assured friend,
 
+[.signed-section-signature]
 John Tabor.
+
+--

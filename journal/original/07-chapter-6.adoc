@@ -1,8 +1,12 @@
 == Chapter VI.
 
-Voyage to Liverpool--Advice to his Children--On the Inward
-Witness--Letters from James Neal and Jonathan Dow.
+[.chapter-synopsis]
+* Voyage to Liverpool
+* Advice to his Children
+* On the Inward Witness
+* Letters from James Neal and Jonathan Dow
 
+[.centered]
 === Voyage to Europe.
 
 Thirteen months after leaving his own habitation, he thus proceeds with his Journal:
@@ -22,6 +26,9 @@ in order to fit and prepare them for such services as he sees meet to
 call them to perform for the manifestation of His own power and glory,
 and the instruction of His children, amongst whom they are called to labor.
 He thus describes his conflicts:
+
+[.embedded-content-document]
+--
 
 I have had two meetings on board, to some satisfaction.
 About the 8th mo.
@@ -113,14 +120,21 @@ I was much refreshed during my stay at Liverpool,
 where I remained from the 2nd to the 8th of 9th mo., 1795, visiting some families,
 and writing home to my own family and friends.
 
+--
+
 In the course of his late voyage,
 David Sands evinced his concern for the improvement and welfare of his
 own children by writing some instructive hints for their government,
 which are thought worthy of preservation here,
 and possibly may be profitably read by others.
 
+[.embedded-content-document.letter]
+--
+
+[.centered]
 === David Sands`' Advice to his children, Written at Sea.
 
+[.signed-section-context-open]
 Ship "`Two Brothers,`" 8th mo., 11th, 1795.
 
 Having felt some secret drawings of spirit towards my dear children,
@@ -217,14 +231,23 @@ but keep a strict eye on all the various duties of the day,
 for as our blessed Lord Jesus Christ declared,
 we are no longer safe than whilst on the watch.
 
+--
+
 The following remarks on the Inward Witness were found among the papers of David Sands,
 without date, and may perhaps be usefully inserted here,
 previous to the account of his Gospel labors in Europe.
 
+[.embedded-content-document.paper]
+--
+
+[.centered]
 === On the Inward Witness.
 
-"`He that believeth on the Son of God hath the witness in himself.`"
+[quote.scripture, , 1 John 5:10]
+____
+He that believeth on the Son of God hath the witness in himself.
 --1 John 5:10.
+____
 
 Many and glorious are the outward testimonies that God has given to the Christian religion,
 both in the days when His Son Jesus Christ dwelt on earth
@@ -263,15 +286,18 @@ it is a testimony written in the heart,
 and upon this account it has some prerogative above all the external arguments
 in favor of Christianity--this inward argument is always at hand.
 
-[.asterism]
-'''
+--
 
 The following letter, from James Neal, belongs to this period of time,
 and bears evidence of the continued warm attachment of those amongst whom he had labored:
 
-Killery, 12th mo.
-9th, 1795.
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Killery, 12th mo. 9th, 1795.
+
+[.salutation]
 My Dearly Beloved Friend and Brother in the Gospel--
 
 As thou art very far separated from all thy dear connections in this life,
@@ -321,14 +347,18 @@ oh may we be filled with spiritual blessings in Christ Jesus,
 and close our days in the joys of God`'s salvation, by and through his dear Son.
 So prays thy affectionate friend,
 
+[.signed-section-signature]
 James Neal.
 
-[.asterism]
-'''
+--
 
-Dover, 12th mo.
-11Th, 1795.
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Dover, 12th mo. 11th, 1795.
+
+[.salutation]
 Dear Brother--
 
 These, with my kind love.
@@ -341,4 +371,7 @@ I conclude,
 thy real friend and brother in the fellowship of the gospel of the dear Son of God,
 and bid thee farewell.
 
+[.signed-section-signature]
 Jonathan Dow.
+
+--
