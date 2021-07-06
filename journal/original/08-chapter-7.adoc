@@ -1,9 +1,14 @@
 == Chapter VII.
 
-Visit to the Northern Counties--Letters from J. B. of Darlington--G.
-Dillwyn--Attends the Northern Yearly Meeting at Carlisle--Yearly
-Meeting in London--Letter from a Friend of Philadelphia.
+[.chapter-synopsis]
+* Visit to the Northern Counties
+* Letters from J. B. of Darlington
+* G. Dillwyn
+* Attends the Northern Yearly Meeting at Carlisle
+* Yearly Meeting in London
+* Letter from a Friend of Philadelphia
 
+[.centered]
 === Travels in England.
 
 8th mo.
@@ -241,8 +246,13 @@ yet they have been made easier than could have been expected.
 At this period,
 David Sands received the following letter from one of the class just mentioned:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Northgate, February 26, 1796.
 
+[.salutation]
 Honored Friend--
 
 Having, in the Friends`' Public Meetinghouse,
@@ -266,7 +276,10 @@ and I sincerely hope you will have an opportunity to do it; if not,
 I trust you will pardon my request,
 as I feel it important to the future state of your unworthy friend,
 
+[.signed-section-signature]
 J+++.+++ B.
+
+--
 
 The Journal continues:--next proceeded to Newcastle-upon-Tyne,
 and put up at the house of Hadwen Bragg.
@@ -321,8 +334,13 @@ We next went to Staindrop.
 About this time David Sands received the following kind and sympathizing
 letter from his friend and fellow-laborer George Dillwyn:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 4th mo., 21, 1796
 
+[.salutation]
 Dear Friend, David Sands,--
 
 Thy acceptable remembrance of 2d mo.
@@ -351,14 +369,15 @@ This shows the necessity of each one minding his own calling, and if he, dear ma
 had more strictly observed the Master`'s injunction "`to salute no man
 by the way,`" it is highly probable he would have escaped those perplexities
 which so much imbittered the latter years of his life.^
-footnote:[John Pemberton was a man of a very tender and susceptible mind,
+footnote:[John Pemberton was an emiment minister in the Society of Friends,
+and also a man of a very tender mind,
 often fearful of omitting any duty.
-This led to an indecision of character in reference to some of his religious services;
-and he sometimes sought counsel of others beyond what they were qualified to give.
+On a few occassions in the course of his religious services,
+this caused him to yield to the counsel of others beyond what they were qualified to give.
 This was particularly the case in reference to views
 of further service in Scotland and the Orkney Islands,
 which he afterwards greatly regretted not having fully performed.
-See J. Pemberton`'s Journal, pages 198, 200, 223, 288.]
+See [.book-title]#J. Pemberton`'s Journal,# pages 198, 200, 223, 288.]
 But as I told him,
 I thought his dear-bought experience would prove a lesson of instruction to many.
 So I trust it has and will be to myself.
@@ -368,10 +387,14 @@ to turn aside for counsel or direction to others; so on the other hand,
 it may convince us of the danger of an unwarranted interference
 with those who are circumstanced as he was.
 
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Geo.
 Dillwyn.
+
+--
 
 He next proceeded by way of Staindrop and Bishop Auckland to Durham,
 where the quarterly meeting for the county was to be held, and lodged at an Inn.
@@ -473,7 +496,7 @@ especially to the youth present.
 The yearly meeting in London was not at that period
 attended so largely as is now the case;
 nor was the manner of conducting the discipline so uniform,
-especially prior to the printing of the Book of Extracts, or Rules of Discipline;
+especially prior to the printing of the [.book-title]#Book of Extracts, or Rules of Discipline;#
 so that these conferences were important,
 as affording the opportunity for an exchange of sentiment on various subjects.]
 After this, having taken leave of many very valuable Friends,
@@ -529,9 +552,14 @@ respecting the order and Christian discipline of the Church.
 The following letter, received by David Sands about this time, is without signature,
 but must not be omitted:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 5th mo.
 15th, 1797.
 
+[.salutation]
 Dear Friend--
 
 Thy letter of the 10th mo.
@@ -618,4 +646,9 @@ but did not feel easy to let the present opportunity slip,
 without sending thee some testimony of my affectionate remembrance of,
 and tender sympathy with thee, under the pressure of thy present allotment.
 
-Signature wanting; but is supposed to have been from John Elliott, of Philadelphia,
+[.small-break]
+'''
+
+Signature wanting; but is supposed to have been from John Elliott, of Philadelphia.
+
+--

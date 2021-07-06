@@ -1,11 +1,19 @@
 == Chapter VIII.
 
-Studies the Dutch and German Languages--Arrives at Bremen--Visits Hamburg, Hanover,
-Pyrmont, Brunswick, Magdeburgh, Brandenburgh, Potsdam, and Berlin--Visit to Freyenwalde,
-where they met Charles Albinus--Return to Berlin,
-and Service there--To Potsdam--Magdeburgh--Halberstadt--Wolfenbuttel-- Pyrmont--Letter
-from Major Marconnay on the King of Prussia`'s willingness to receive a Visit.
+[.chapter-synopsis]
+* Studies the Dutch and German Languages
+* Arrives at Bremen
+* Visits Hamburg, Hanover, Pyrmont, Brunswick, Magdeburgh, Brandenburgh, Potsdam, and Berlin
+* Visit to Freyenwalde, where they met Charles Albinus
+* Return to Berlin, and Service there
+* To Potsdam
+* Magdeburgh
+* Halberstadt
+* Wolfenbuttel
+* Pyrmont
+* Letter from Major Marconnay on the King of Prussia`'s willingness to receive a Visit
 
+[.centered]
 === Visit to parts of Holland, Germany, and France.
 
 Before proceeding to insert David Sands`' Journal
@@ -425,7 +433,7 @@ to good satisfaction.
 They visited several families, and were instrumental in detecting an impostor,
 in whom some of the simple-hearted, serious people were placing a foolish confidence.
 They distributed some books, and parted in much affection.^
-footnote:[See the Journal of William Savery, page 129 to 141.--Editor.]
+footnote:[See the [.book-title]#Journal of William Savery,# page 129 to 141.--Editor.]
 David Sands thus proceeds:
 
 10th mo.
@@ -942,7 +950,11 @@ In about two days the King received them, and an officer was sent after us,
 but did not overtake us.
 The person who had the care of our letter and book sent us the following letter:
 
-=== To the Friends Who Visited Berlin
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To the Friends Who Visited Berlin
 
 My last words to you, my dear Friends, were,
 "`God be with you`" --words which evinced the fulness of my heart.
@@ -1004,10 +1016,20 @@ make me joyful by imparting a few lines of love,
 and nothing but death will prevent my answering your dear letter.
 In love I embrace you in my heart as your ever loving brother,
 
+[.signed-section-signature]
 Major Marconnay.
+
+[.signed-section-context-close]
 Berlin 22nd Oct., 1796.
 
+[.postscript]
+====
+
 Bishop Wender is appointed to introduce all strangers to the King.
+
+====
+
+--
 
 This interesting letter we met at this place, Pyrmont,
 on our return the 29th of 10th mo.,
