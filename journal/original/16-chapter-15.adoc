@@ -462,9 +462,10 @@ His solemn and impressive demeanor struck the company with awe;
 the music and dancing ceased, and they all stood in silent amazement, waiting the result;
 when he commenced addressing them to the following import:
 
-[quote]
-____
-My friends, for what purpose is this gay company assembled?
+[.small-break]
+'''
+
+"`My friends, for what purpose is this gay company assembled?
 Is it to worship Almighty God; him from whom all your favors and blessings flow; who,
 in his love and compassion, gave the dear Son of his bosom as a ransom,
 that through him you might have eternal life?
@@ -488,8 +489,10 @@ Yea, he will be unto you as a shield and buckler;
 and as your strong defence in times of trouble.
 Suffer him not to stand knocking at the door of your
 hearts until his head shall become wet with the dew,
-and his locks with the drops of the night.`'
-____
+and his locks with the drops of the night.`"
+
+[.small-break]
+'''
 
 Thus did he continue to address them until the power
 of the Most High was so made manifest among them,
