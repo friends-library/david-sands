@@ -1,13 +1,24 @@
 == Chapter XV.
 
-Letter from Richard Reynolds--Arrival at Home--Letter from James 100.
---David Sands`' Reply--Visit to Philadelphia and
-to Canada--Letter from James Neall--Letter from John Murray,
-Junior--A Remarkable Occurrence--Conclusion.
+[.chapter-synopsis]
+* Letter from Richard Reynolds
+* Arrival at Home
+* Letter from James C.
+* David Sands`' Reply
+* Visit to Philadelphia and to Canada
+* Letter from James Neall
+* Letter from John Murray, Junior
+* A Remarkable Occurrence
+* Conclusion.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Bristol, 4th mo.
 8th, 1805.
 
+[.salutation]
 My Dear Friend--
 
 I was duly favored with thy kind letter of the 6th of last mo.
@@ -26,7 +37,7 @@ and thy health better than for some time past.
 
 I am sorry that any part of thy late trials should
 have arisen from the person thou mentions.^
-footnote:[William Hodgson, in his Historical Memoirs,
+footnote:[William Hodgson, in his [.book-title]#Historical Memoirs,#
 speaking of the firm testimony which David Sands bore against the errors of the Seceders,
 remarks that he "`had been drawn, in the love of Christ, to visit Ireland,
 and being led into very plain dealing among them,
@@ -35,7 +46,7 @@ he became a principal mark for their enmity.
 Many of them refused to acknowledge his ministry,
 by uniting in the usual orderly practice of standing up and taking off the hat,
 while he was engaged in meetings for worship,
-in the solemn act of addressing the Most High.`"-Page 391.]
+in the solemn act of addressing the Most High.`"--Page 391.]
 If he would have been advised by me, it would not have been so;
 and as I could not prevent the publication, I thought it best to be silent;
 insomuch that though I had a visit from him the latter end of last summer,
@@ -57,7 +68,10 @@ Farewell, dear friend: continue to remember me;
 and as thou shalt be enabled to approach the throne of Divine mercy with acceptance,
 forget not thy affectionate friend.
 
+[.signed-section-signature]
 Richard Reynolds.
+
+--
 
 After taking a general and solemn leave of his many tender and affectionate friends,
 he embarked at Liverpool, on board the ship "`Washington,`" bound for New York,
@@ -76,6 +90,10 @@ dedication to the service of his Lord and Master Jesus Christ.
 The following letter, with David Sands`' reply, though without date or full signature,
 is thought worthy of insertion; and may most properly be introduced here:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Most Worthy and Honored Friend--
 
 Will you forgive the liberty I have taken in thus addressing you.
@@ -96,7 +114,7 @@ often querying with myself, who is Jesus of Nazareth,
 whom they call Saviour and Redeemer?
 I have never known him, or seen his works, though it is said he wrought miracles,
 raised the dead, and even gave up his life for the redemption of sinners.
-I heard and read all this, but still queried,---Is it not a fable?
+I heard and read all this, but still queried,--Is it not a fable?
 what have I to do with him?
 His blood, if it was shed, is nothing to me.
 I was, like Paul, a persecutor.
@@ -170,10 +188,19 @@ if only a few lines, it would give me much comfort.
 May you go on in the glorious work,
 and may the great Lord of the harvest bless and crown your end with peace,
 is the fervent prayer of your unworthy friend,
-James 100.
 
+[.signed-section-signature]
+James C.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 David Sands`' Reply.
 
+[.salutation]
 Dear Friend--
 
 Thy letter of the 20th I received, but not until some time after its date:
@@ -233,7 +260,10 @@ good and faithful servant,
 enter thou into the joy of thy Lord,`" is the fervent breathing of my soul for thee,
 my friend.
 
+[.signed-section-signature]
 David Sands.
+
+--
 
 After David Sands returned from his long visit to Europe,
 he continued to take a lively interest in the welfare of the Society;
@@ -272,9 +302,14 @@ though originally a confidential letter, yet now, after the lapse of so many yea
 it is apprehended may suitably find a place in these Memoirs,
 for the edification and instruction of others.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Brunswick, 6th mo.
 6th, 1808.
 
+[.salutation]
 Dearly Beloved Friend David Sands--
 
 Having opportunity, I may say thou art often in my remembrance,
@@ -314,18 +349,32 @@ Thou wilt understand my simple hints.
 I conclude with a feeling of more love than can be expressed in this silent way,
 and remain thy assured and affectionate friend,
 
+[.signed-section-signature]
 James Neall.
+
+[.postscript]
+====
 
 I have written to thee one or two letters since thy return from Europe,
 but have not had any answer.
 I wish to receive a line from thee,
-and an intimation of thy mind when thou lookest towards us,
+and an intimation of thy mind when thou lookest towards us.
 
+====
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From John Murray, Jun., to David Sands.
 
+[.signed-section-context-open]
 New York, 7th mo.
 21st, 1811.
 
+[.salutation]
 My Dear Friend--
 
 Since thou left the city,
@@ -385,8 +434,12 @@ which is very desirable in the decline of life,
 even as it relates to our comfort and welfare while in the body.
 I am affectionately thy friend,
 
+[.signed-section-signature]
 John Murray, Jun.
 
+--
+
+[.centered]
 === A Remarkable Occurrence.
 
 Many interesting incidents might be related of this truly devoted servant of his God,
@@ -409,6 +462,8 @@ His solemn and impressive demeanor struck the company with awe;
 the music and dancing ceased, and they all stood in silent amazement, waiting the result;
 when he commenced addressing them to the following import:
 
+[quote]
+____
 My friends, for what purpose is this gay company assembled?
 Is it to worship Almighty God; him from whom all your favors and blessings flow; who,
 in his love and compassion, gave the dear Son of his bosom as a ransom,
@@ -434,6 +489,7 @@ and as your strong defence in times of trouble.
 Suffer him not to stand knocking at the door of your
 hearts until his head shall become wet with the dew,
 and his locks with the drops of the night.`'
+____
 
 Thus did he continue to address them until the power
 of the Most High was so made manifest among them,
