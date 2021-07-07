@@ -1,8 +1,18 @@
 == Chapter XI.
 
-Attends the Yearly Meeting--Quarterly Meetings at Banbury--Buckingham--Reflections on
-Visit to Jordan`'s Burial Ground--Woodstock--Letter from Ebenezer Crosson--Travels in
-Wales--Arrival at Waterford--At Clonmell--Letter from James Bringhurst--Visits Cork--Limerick.
+[.chapter-synopsis]
+* Attends the Yearly Meeting
+* Quarterly Meetings at Banbury
+* Buckingham
+* Reflections on Visit to Jordan`'s Burial Ground
+* Woodstock
+* Letter from Ebenezer Crosson
+* Travels in Wales
+* Arrival at Waterford
+* At Clonmell
+* Letter from James Bringhurst
+* Visits Cork
+* Limerick
 
 Before resuming the Journal kept by David Sands,
 of his labors and services in England and Ireland, it may be proper to remark,
@@ -144,9 +154,14 @@ of some present not of our Society.
 The following letter from his friend Ebenezer Cresson, of Portland, Maine,
 was written about this time, and probably received soon after:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Portland, Maine, 7th mo.
 10th, 1797.
 
+[.salutation]
 Dear Friend--
 
 Feeling, I trust, a degree of that uniting love which time, nor distance, sea or land,
@@ -197,10 +212,13 @@ and what shall be the fate of this country, in the bustle, is behind the curtain
 Dear John Wigham desires his love to thee.--Farewell;
 and may we all fare well in the best sense, is my ardent desire.
 
+[.signed-section-signature]
 Ebenezer Cresson.
 
+--
+
 7th mo.
-16Th, 1797.-- Went to Burford and put up with Thomas Minchin,
+16th, 1797.-- Went to Burford and put up with Thomas Minchin,
 whose wife is in the ministry, and appears to be a very valuable minister.
 From this place I attended many meetings that lay not far distant;
 in all which I was favored to experience some help, so that I was enabled to get through,
@@ -413,9 +431,14 @@ About this time,
 David Sands was cheered by the receipt of the following valuable letter from his friend,
 James Bringhurst, of Rhode Island:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Tiverton, Rhode Island, 10th mo.
 25th, 1797.
 
+[.salutation]
 My Dear Friend, David Sands--
 
 Under a deep feeling sense of that uniting love which extends over sea and land,
@@ -549,7 +572,10 @@ and I feel no doubt but you will be abundantly blessed through all, to the end,
 which will then crown you with glory unspeakable.
 In deep-felt love I remain your sincere friend,
 
+[.signed-section-signature]
 James Bringhurst.
+
+--
 
 12th mo.
 21st.--My valued friend William Savery, with William Farrer, having come to Cork,

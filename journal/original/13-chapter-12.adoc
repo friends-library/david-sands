@@ -1,7 +1,13 @@
 == Chapter XII.
 
-Illness at Edinderry--Arrival in Dublin--Breaking out of the Rebellion--Ravages of War--Quarterly
-Meeting at Enniscorthy--Letter to his Wife--Conversion of a Military Officer.
+[.chapter-synopsis]
+* Illness at Edinderry
+* Arrival in Dublin
+* Breaking out of the Rebellion
+* Ravages of War
+* Quarterly Meeting at Enniscorthy
+* Letter to his Wife
+* Conversion of a Military Officer
 
 Having been unwell for some time, I did not attend their meeting at Rathangan.
 Here I met with Mary Ridgway, who I was glad to see.
@@ -124,9 +130,14 @@ She appeared to be a worthy woman, and had a valuable gift in the ministry.
 
 The following letter from David Sands to his wife belongs to this period of time:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Waterford, Ireland, 8th mo.
 11th, 1798.
 
+[.salutation]
 My Dear Wife--
 
 In that love that changeth not I most affectionately salute thee.
@@ -172,4 +183,7 @@ though I do not wish to magnify my difficulties.
 I know there is no such thing as being a soldier and not have to undergo hardship.
 Farewell, my beloved wife: affectionately thine,
 
+[.signed-section-signature]
 David Sands.
+
+--
