@@ -113,12 +113,12 @@ though it is better now with my dear friend George Dillwyn and wife,
 who seem like housekeepers, having been here near two months.
 
 I expect to leave in a few days, whether for Holland or to return again east,
-and to some other places thatway, I cannot now determine.
+and to some other places that way, I cannot now determine.
 When I was at Berlin, I wished to speak to the king of Prussia,
 having something on my mind to say to him in a particular manner,
 which opportunity I could not obtain when there,
 he having gone to a seat where he sometimes dwells.
-And the minister of state did not open theway for us at that time.
+And the minister of state did not open the way for us at that time.
 We left a few lines, and a copy of [.book-title]#Barclay`'s Apology# with a friend of ours,
 a man of high rank, who promised to forward them to the king, which he did.
 Two days after we left Berlin, a message was sent after us,
@@ -167,7 +167,10 @@ when reflecting on the arduous labor and time spent in that country,
 by myself and many other faithful laborers.
 I now conclude in dearest love to thee and my dear children and connections,
 and recommend you to him who neither sleeps by day nor slumbers by night,
-who is God over all, blessed forever.--Thy ever affectionate husband,
+who is God over all, blessed forever.
+
+[.signed-section-closing]
+Thy ever affectionate husband,
 
 [.signed-section-signature]
 David Sands.
