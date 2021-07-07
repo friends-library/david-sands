@@ -1,9 +1,15 @@
 == Chapter XIV.
 
-Interview with King George the Third--Visit to the Southern, Western,
-and Northern Counties--Meeting at Berwick--Visit to Scotland and
-Carlisle--Letters from Margaret Jecto--Richard Reynolds--Lindley
-Murray--Case of H. Barnard--Letter from D. Darby.
+[.chapter-synopsis]
+* Interview with King George the Third
+* Visit to the Southern, Western, and Northern Counties
+* Meeting at Berwick
+* Visit to Scotland and Carlisle
+* Letters from Margaret Jecto
+* Richard Reynolds
+* Lindley Murray
+* Case of H. Barnard
+* Letter from D. Darby.
 
 It was probably soon after his return from Ireland, in 1799,
 that David Sands was permitted to have an interview with King George the Third,
@@ -59,6 +65,10 @@ In 1801, he again visited some of the Northern counties, and at Carlisle in Cumb
 his labors appear to have been peculiarly blessed to some,
 as the following letter evinces; we trust it may be read to profit:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Carlisle, May 13, 1801.
 
 I trust, my dear friend,
@@ -137,14 +147,22 @@ that those clouds that hide the love of God from me may be dispelled;
 that my faith may be strengthened, and that all hardness of heart may be removed.
 (The conclusion wanting.)
 
+[.signed-section-signature]
 Margaret Jecto.
+
+--
 
 The following letter from his valued friend, Richard Reynolds,
 is deemed worthy of preservation:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Coalbrook Dale, 4th mo.
 30th, 1801.
 
+[.salutation]
 Dear Friend--
 
 I am pleased to find I still retain a place in thy friendly remembrance,
@@ -177,16 +195,24 @@ I hope you will unite in remembrance of and prayers for me,
 as you are united in the regard, and so far as I am enabled,
 in the prayers of thy affectionate friend,
 
+[.signed-section-signature]
 Richard Reynolds.
+
+--
 
 The minds of many Friends at this period were deeply concerned for the
 maintenance of the standard of truth as always held by the Society;
 and the following letter from Lindley Murray to David Sands
 evinces in what manner the subject obtained their attention:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 York, 5th mo.
 16th, 1801.
 
+[.salutation]
 My Dear Friend David Sands--
 
 About the time thou wilt receive this,
@@ -271,7 +297,10 @@ the recollection of which renewed his confidence and strength.
 I hope to have the comfort of hearing from thee soon;
 and in that love which changeth not, remain thy affectionate friend,
 
+[.signed-section-signature]
 Lindley Murray.
+
+--
 
 The yearly meeting of 1801 was now approaching,
 in the proceedings of which David Sands could not but feel deeply interested.
@@ -319,9 +348,14 @@ and that to many and distant nations.
 In her travels in America, and subsequently, her friend Rebecca Young,
 afterwards wife of William Byrd, was her fellow-laborer:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Godalming, 5th mo.
 30th, 1802.
 
+[.salutation]
 My Dear Friend and Brother, David Sands--
 
 I am obliged by thy kind attention in writing me.
@@ -342,7 +376,11 @@ But be that as it may, "`Those who suffer with Christ will also reign with him.`
 When thou writes home, please to convey my dear love to thy relations,
 and accept a large share thyself, from thy sincere friend,
 
+[.signed-section-signature]
 Deborah Darby.
+
+[.postscript]
+====
 
 William and Rebecca Byrd`'s love to their beloved friend David Sands;
 they nearly unite in the above affectionate salutation,
@@ -351,6 +389,10 @@ may continue to attend him in all his steps;
 that whenever a retreat is sounded from the present field of arduous labor,
 it may be attended with the possession of that peace
 which the world can neither give nor take away.
+
+====
+
+--
 
 In the spring of 1803, David Sands was at Worcester, and on the 10th of 4th mo.
 he attended two marriages there.
