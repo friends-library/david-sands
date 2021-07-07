@@ -1,10 +1,17 @@
 == Appendix.
 
-Address to a young Friend--On Silent Worship--Testimony delivered at Macclesfield.
+[.chapter-synopsis]
+* Address to a young Friend
+* On Silent Worship
+* Testimony delivered at Macclesfield
 
 The following remarks, from the pen of David Sands,
 appear to be the fruits of experience, and are worthy of preservation
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To a Young Friend.
 
 I felt easy to communicate some observations that
@@ -64,9 +71,16 @@ a glory to humanity, a satisfaction to himself, and a benefactor to the world.
 He is rich without oppression or dishonesty, charitable without ostentation,
 courteous without deceit, and brave without vice.
 
-Address to Religious Inquirers, on the Subject of Silent Worship; or Waiting Upon God.
+--
 
-By David Sands.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== Address to Religious Inquirers, on the Subject of Silent Worship; or Waiting Upon God.
+
+[.blurb]
+=== By David Sands.
 
 Our Lord Jesus Christ hath told us, John 15:5, "`Without me ye can do nothing.`"
 We therefore cannot perform divine worship acceptably without his assistance.
@@ -160,13 +174,12 @@ will leave us conscientiously to follow what we have found right.
 As the subject is weighty as well as extensive,
 I feel it best to leave it for the present,
 and refer the inquirer to the 10th and 11th Propositions
-of R. Barclay`'s Apology for the People called Quakers.
+of [.book-title]#R. Barclay`'s Apology# for the People called Quakers.
 
-The Substance of a Testimony
+--
 
-Delivered by David Sands at a public meeting held
-at Macclesfield in Cheshire in the year 1804,
-and taken down in shorthand by Thomas Mollineaux.
+[.old-style]
+=== The Substance of a Testimony / Delivered by David Sands at a public meeting held at Macclesfield in Cheshire in the year 1804, and taken down in shorthand by Thomas Mollineaux.
 
 Note by the Editor.--Although the Society of Friends, as a religious body,
 have never sanctioned or encouraged any of their own members in taking down in writing,
@@ -196,7 +209,7 @@ We may easily conceive it to have been so when the following communication was d
 It was taken down by a person not of the Society of Friends;^
 footnote:[Extract of a letter from Samuel Jesper, a Friend, of Macclesfield,
 dated 12th mo.
-10Th,
+10th,
 1847.--It is an interesting fact that the individual who took down
 in shorthand the testimony delivered by David Sands,
 at Macclesfield, is still living here, viz., Thomas Mollineaux.
@@ -210,7 +223,11 @@ yet it is thought well worthy of preservation,
 and may be regarded as a fair specimen of the convincing, persuasive,
 energetic character of the ministry of David Sands.
 
-Substance of the Testimony.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Substance of the Testimony.
 
 It pleased the Lord in the early part of my life to afford
 me some awakenings or visitations of his love;
@@ -566,4 +583,7 @@ I have leaped over the walls of opposition.`"
 The Grace of our Lord Jesus Christ be with you all.
 Amen.
 
+--
+
+[.the-end]
 Finis.
