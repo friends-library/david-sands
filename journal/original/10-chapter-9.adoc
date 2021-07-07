@@ -1,13 +1,26 @@
 == Chapter IX.
 
-Letter to his Wife--Arrival at Minden--At Hertford--At Hanover Carriage overturned,
-and return to Minden--Amsterdam--The Hague--Rotterdam--Sluys--Dunkirk.
+[.chapter-synopsis]
+* Letter to his Wife
+* Arrival at Minden
+* At Hertford
+* At Hanover Carriage overturned, and return to Minden
+* Amsterdam
+* The Hague
+* Rotterdam
+* Sluys
+* Dunkirk
 
 The following letter is addressed to his wife,
 giving some particulars of his late travels in Germany:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Pyrmont, 11th mo, 5th, 1796.
 
+[.salutation]
 My Dear Wife--
 
 It is now more than a month since I have written to thee, for want of opportunity,
@@ -100,13 +113,13 @@ though it is better now with my dear friend George Dillwyn and wife,
 who seem like housekeepers, having been here near two months.
 
 I expect to leave in a few days, whether for Holland or to return again east,
-and to some other places thatway, I cannot now determine.
+and to some other places that way, I cannot now determine.
 When I was at Berlin, I wished to speak to the king of Prussia,
 having something on my mind to say to him in a particular manner,
 which opportunity I could not obtain when there,
 he having gone to a seat where he sometimes dwells.
-And the minister of state did not open theway for us at that time.
-We left a few lines, and a copy of Barclay`'s Apology with a friend of ours,
+And the minister of state did not open the way for us at that time.
+We left a few lines, and a copy of [.book-title]#Barclay`'s Apology# with a friend of ours,
 a man of high rank, who promised to forward them to the king, which he did.
 Two days after we left Berlin, a message was sent after us,
 that the king would give us an opportunity to see him, and had wished us to return;
@@ -154,9 +167,15 @@ when reflecting on the arduous labor and time spent in that country,
 by myself and many other faithful laborers.
 I now conclude in dearest love to thee and my dear children and connections,
 and recommend you to him who neither sleeps by day nor slumbers by night,
-who is God over all, blessed forever.--Thy ever affectionate husband,
+who is God over all, blessed forever.
 
+[.signed-section-closing]
+Thy ever affectionate husband,
+
+[.signed-section-signature]
 David Sands.
+
+--
 
 We have had several favored meetings here at Pyrmont,
 and still remain at a loss to know when we shall get clear of our service in this place.
@@ -243,7 +262,7 @@ nor was the way to leave clear to us, which made it very trying.
 About thirty persons attended of the better sort, who were kind and friendly towards us.
 
 11th mo.
-25th.-We had another meeting at our Inn.
+25th.--We had another meeting at our Inn.
 A number attended, which was some relief;
 and after it we had an opportunity with several persons and families,
 much to our satisfaction.
@@ -428,14 +447,14 @@ and it appears full of business.
 The people were friendly, as in other places; but are divided as to religion.
 
 12th mo.
-17th.-We travelled about thirty miles to Rheine, in the Bishop of Munster`'s territory.
+17th.--We travelled about thirty miles to Rheine, in the Bishop of Munster`'s territory.
 Here we lodged at a Catholic Inn, and were well entertained.
 The inhabitants are mostly Catholics.
 We saw them going to their worship on first-day, with crosses hung about their necks,
 and other marks of the Romish religion.
 
 12th mo.
-18th.- We travelled about eighteen miles to a town called Bentheim,
+18th.-- We travelled about eighteen miles to a town called Bentheim,
 where the people are mostly Calvinists,
 and appear to be better informed than in many other parts of Germany.
 We have had some friendly conversation with our landlord and his family,
@@ -759,7 +778,7 @@ its situation is very wild and beautiful; they appear to be a wealthy people.
 We tarried here one night and part of two days.
 
 3rd mo.
-8th. -We took our passage down the river, in a flat kind of batteau or shallop,
+8th. --We took our passage down the river, in a flat kind of batteau or shallop,
 with many other passengers.
 At night we landed at a village, where we lodged, this being their custom,
 as the river is difficult to navigate, winding through amongst mountains:
