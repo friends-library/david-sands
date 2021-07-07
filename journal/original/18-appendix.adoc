@@ -178,12 +178,8 @@ of [.book-title]#R. Barclay`'s Apology# for the People called Quakers.
 
 --
 
-[.centered]
-=== The Substance of a Testimony
-
-Delivered by David Sands at a public meeting held
-at Macclesfield in Cheshire in the year 1804,
-and taken down in shorthand by Thomas Mollineaux.
+[.old-style]
+=== The Substance of a Testimony / Delivered by David Sands at a public meeting held at Macclesfield in Cheshire in the year 1804, and taken down in shorthand by Thomas Mollineaux.
 
 Note by the Editor.--Although the Society of Friends, as a religious body,
 have never sanctioned or encouraged any of their own members in taking down in writing,
