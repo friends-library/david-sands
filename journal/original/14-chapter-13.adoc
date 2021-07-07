@@ -345,8 +345,7 @@ and some allusion will be found to them in the following letters from Richard Re
 --
 
 [.signed-section-context-open]
-Coalbrook Dale, 2nd mo.
-26Th, 1799
+Coalbrook Dale, 2nd mo. 26th, 1799
 
 [.salutation]
 Dear Friend--
@@ -396,6 +395,8 @@ I shall address this to the care of Joseph Williams, to whom please give my love
 and I hope he has received a few lines,
 by which I took the liberty to request him to procure
 some books for me that were printed in Dublin.
+
+[.signed-section-closing]
 Thy affectionate friend,
 
 [.signed-section-signature]
@@ -469,6 +470,8 @@ and I am far from being offended by thy cautions:
 though I trust to be preserved from grieving or offending
 any brother who may not think exactly as I do,
 or who may not concern himself at all with the opinions or practices of others.
+
+[.signed-section-closing]
 Thy faithful friend,
 
 [.signed-section-signature]
