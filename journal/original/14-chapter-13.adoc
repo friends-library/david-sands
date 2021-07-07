@@ -1,17 +1,26 @@
 == Chapter XIII.
 
-Letter from Joseph Wing to Clementina Sands--Letter from David Sands to James Harford,
-of Bristol--Case of Meditated Suicide prevented--
-Return to England--Letters from Richard Reynolds.
+[.chapter-synopsis]
+* Letter from Joseph Wing to Clementina Sands
+* Letter from David Sands to James Harford, of Bristol
+* Case of Meditated Suicide prevented
+* Return to England
+* Letters from Richard Reynolds
 
 The following letter from Joseph Wing to Clementina
 Sands is deemed worthy of a place in these Memoirs:
 
-=== Joseph Wing to Clementina Sands.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Joseph Wing to Clementina Sands.
+
+[.signed-section-context-open]
 Sandwich, 6th mo.
 29th, 1798.
 
+[.salutation]
 Dear Friend--
 
 Having thee and thy dear children so fresh in remembrance at this time,
@@ -87,7 +96,10 @@ the vessel when David Sands and I were cast away.
 We were glad to meet.
 I must now take leave of thee, and bid thee most affectionately farewell,
 
+[.signed-section-signature]
 Joseph Wing.
+
+--
 
 The following letter, from David Sands, is supposed to be addressed to James Harford,
 of Bristol.
@@ -95,6 +107,10 @@ Some of the trials to which he so feelingly alludes in this letter are explained
 The defection from sound doctrine was creeping in,
 though more fully developed at a subsequent period:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Very Dear Friend--
 
 I returned to town this evening, where I met with thy kind letter,
@@ -152,7 +168,10 @@ until I meet my dear friend and his beloved children,
 when my sorrows will be turned into joy.
 Until then, farewell, my tenderly beloved friend.
 
+[.signed-section-signature]
 David Sands.
+
+--
 
 The Journal proceeds:--After parting with my friends at Cork, I returned to Youghall,
 and tarried some days, visited several families, and had some meetings.
@@ -181,7 +200,7 @@ At Waterford, I met with my dear friend Elizabeth Usher, whose kindness was very
 as she furnished me with a comfortable carriage, of which I stood in need.
 
 12th mo.
-28Th, 1798.--I left Waterford to attend the quarterly meeting at Carlow,
+28th, 1798.--I left Waterford to attend the quarterly meeting at Carlow,
 in Leinster Province, which, though not large, we were favored with Divine help.
 Here I met with my kind friends Mary Ridgway and Jane Watson.
 After the quarterly meeting,
@@ -322,9 +341,13 @@ and tenderly concerned mind of David Sands;
 to whom the truth, as it is in Jesus, had ever been very precious;
 and some allusion will be found to them in the following letters from Richard Reynolds:
 
-Coalbrook Dale, 2nd mo.
-26Th, 1799
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Coalbrook Dale, 2nd mo. 26th, 1799
+
+[.salutation]
 Dear Friend--
 
 By thy acceptable letter of the 6th instant,
@@ -372,12 +395,22 @@ I shall address this to the care of Joseph Williams, to whom please give my love
 and I hope he has received a few lines,
 by which I took the liberty to request him to procure
 some books for me that were printed in Dublin.
+
+[.signed-section-closing]
 Thy affectionate friend,
 
+[.signed-section-signature]
 Richard Reynolds.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Richard Reynolds to David Sands.
 
+[.salutation]
 Dear Friend--
 
 I am glad to find my letter of 2nd mo.
@@ -437,6 +470,11 @@ and I am far from being offended by thy cautions:
 though I trust to be preserved from grieving or offending
 any brother who may not think exactly as I do,
 or who may not concern himself at all with the opinions or practices of others.
+
+[.signed-section-closing]
 Thy faithful friend,
 
+[.signed-section-signature]
 Richard Reynolds
+
+--
