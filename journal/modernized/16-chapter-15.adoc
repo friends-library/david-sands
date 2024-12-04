@@ -216,8 +216,10 @@ Oh, what a grievous sin is infidelity;
 the mark of its footsteps may be traced by the
 desolation and misery which follow close upon its train.
 It brings a blasting mildew over the fair face of nature;
-its poisonous influence spreads far and wide, like the deadly Upas: all who venture near,
-feel its sickly withering effects.
+its poisonous influence spreads far and wide, like the deadly Upas:^
+footnote:[The Upas is a tropical Asian tree with very poisonous sap.
+It was once believed to kill all vegetation around it.]
+all who venture near, feel its sickly withering effects.
 I grieve to say there is much of it abroad in our land;
 and though partly concealed under the cloak of Christianity,
 its hideous deformity will sometimes appear;
